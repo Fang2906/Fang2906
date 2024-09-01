@@ -11,6 +11,7 @@ Hi there 👋
 GOMYCODE - Advanced training in modern frameworks (2024)
 Université Virtuelle du Sénégal - Bachelor in Digital Marketing (2021-2023)
 Leader Technology Group - Certificate in Device Electronics and Micro-Welding (2022)
+
 👨‍💻 Recent Experience:
 EPIXELIC: Front End Developer & UX Designer | April 2024 - July 2024
 Worked in a team of 7 to develop a showcase site for agri-food entrepreneurs
@@ -28,7 +29,13 @@ Linked APIs and completed UX design
 
 FANG tech: Managed a hardware and software repair shop for Apple components for 4 years, generating 10 million XAF annually
 The African "WeChat": Developed a social network with integrated payment solutions
+
 Stock Managing App: Currently developing an inventory management application for retailers
+
+
+
 📫 How to reach me: elhadjifalloungom7@gmail.com
+
 😄 Pronouns: Fallou Ngom
+
 ⚡ Fun fact: I love tech, music, and photography!
